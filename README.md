@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+Hobby Pythonist who mainly uses _Python 3.9_.
+
+That's all for now, sadly.
 
 <!--
 **jupiterbjy/jupiterbjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
