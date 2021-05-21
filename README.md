@@ -1,10 +1,10 @@
 ### About me
 
-Hobby Pythonist who mainly uses _Python 3.9_. Preferred style is Pylint and black.
+Hobby Pythonist who mainly uses _Python 3.8/3.9_. Preferred style is Pylint and black.
 
-Has high interest in overall areas related to HW/SW, yet to decide where I should be focusing on.
+Has wide range of interest, yet shallow in some areas.
 
-Recently finished mandatory military services, and preparing to return to university.
+Happens to draw [minor things](https://steamcommunity.com/id/jupiterbjy/images/) time to time. 
 
 <!--
 **jupiterbjy/jupiterbjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
