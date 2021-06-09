@@ -1,8 +1,10 @@
 ### About me
 
-Hobby Pythonist who mainly uses _Python 3.8/3.9_. Preferred style is Pylint and black.
+Hobby Pythonist who mainly uses _Python 3.8/3.9_.
 
-Has wide range of interest, yet shallow in some areas.
+- code style: `black` & `pylint`
+- Prefer `trio` over `threading` and `asyncio`. Personally I think all pythonist should read [this](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/) multiple times.
+- Extremely strong preference to Jetbrains IDE family
 
 Happens to draw [minor things](https://steamcommunity.com/id/jupiterbjy/images/) time to time. 
 
