@@ -6,13 +6,13 @@ Hobby Pythonist who mainly uses _Python 3.9/3.10_.
 - Prefer `trio` over `threading` and `asyncio`. Personally I think all pythonist should read [this](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/) multiple times.
 - Extremely strong preference to Jetbrains IDE family
 
-## Contacts
+## Contacts/Links
 
 - jupiterbjy@gmail.com
 - [Discord](https://discordapp.com/users/426701488283189249)
-- [Pixiv](https://www.pixiv.net/users/13823148)
-- [Steam](https://steamcommunity.com/id/jupiterbjy)
 - [StackOverFlow](https://stackoverflow.com/users/10909029/jupiterbjy)
+- [Steam](https://steamcommunity.com/id/jupiterbjy)
+- [Pixiv](https://www.pixiv.net/users/13823148)
 
 <!--
 **jupiterbjy/jupiterbjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
