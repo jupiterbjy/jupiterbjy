@@ -8,11 +8,6 @@ Hobby Pythonist who mainly uses _Python 3.9/3.10_.
 
 ## Links
 
-### Social
-- [Twitter](https://twitter.com/jupiterbjy)
-- [Instagram](https://www.instagram.com/nyarukoishi/)
-- [Fedi](https://social.cyannyan.com/jupiterbjy)
-
 ### Others
 - [Pixiv](https://www.pixiv.net/users/13823148)
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
