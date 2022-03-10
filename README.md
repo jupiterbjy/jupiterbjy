@@ -12,7 +12,6 @@ Hobby Pythonist who mainly uses _Python 3.9/3.10_.
 - [Discord](https://discordapp.com/users/426701488283189249)
 - [StackOverFlow](https://stackoverflow.com/users/10909029/jupiterbjy)
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
-- [Pixiv](https://www.pixiv.net/users/13823148)
 
 <!--
 **jupiterbjy/jupiterbjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
