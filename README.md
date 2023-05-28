@@ -1,6 +1,6 @@
 ## About this weirdo
 
-Hobby Pythonist who mainly uses _Python 3.9/3.10_.
+Hobby Pythonist who mainly uses _Python 3.11_.
 
 - code style: `black`
 - Prefer `trio` over `threading` and `asyncio`. Personally I think all pythonist should read [this](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/) multiple times.
@@ -12,6 +12,7 @@ Hobby Pythonist who mainly uses _Python 3.9/3.10_.
 - [Discord](https://discordapp.com/users/426701488283189249)
 - [StackOverFlow](https://stackoverflow.com/users/10909029/jupiterbjy)
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
+- [pixiv](https://www.pixiv.net/users/13823148)
 
 <!--
 **jupiterbjy/jupiterbjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
