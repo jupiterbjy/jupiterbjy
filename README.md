@@ -14,6 +14,7 @@ Also loves hobby drawing & modeling, and using 3D printers!
 - [StackOverFlow](https://stackoverflow.com/users/10909029/jupiterbjy)
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
 - [pixiv](https://www.pixiv.net/users/13823148)
+- [youtube](https://www.youtube.com/@jupiterbjy)
 
 <!--
 **jupiterbjy/jupiterbjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
