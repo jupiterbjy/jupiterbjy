@@ -5,7 +5,7 @@ Hobby Pythonist who mainly uses _Python 3.11_.
 Also loves hobby drawing & modeling, and using 3D printers!
 
 - Prefer `trio` over `threading` and `asyncio`. Personally I think all pythonist should read [this](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/) multiple times.
-- Extremely strong preference to Jetbrains IDE family
+- Strong preference to Jetbrains IDE family
 
 ## Contacts/Links
 
