@@ -1,6 +1,6 @@
 ## About this weirdo
 
-Hobby Pythonist who mainly uses _Python 3.11_.
+Hobby Pythonist who mainly uses _Python 3.12_.
 
 Also loves hobby drawing & modeling, and using 3D printers!
 
