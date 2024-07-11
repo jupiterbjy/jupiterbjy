@@ -46,10 +46,11 @@ Some not-so-proud-of table:
 |Python|6 yr|1.5 yr unofficial<br>0.5yr official|Loves EAFP, Loves Zen of Python|
 |C++|1.5 yr|0.5 yr|Currently fighting with implicit hell & Rule of 0/3/5. I hate indecisive, implicit, weak typed langauge!|
 |C|0.5 yr||Will do if gun's pointed at me|
+|C#|0.5 yr||Unity/Godot, Will do if gun's pointed at me|
 |Javascript|0.5 yr||Loves to go pure CSS/JS/HTML and suffer or mixes with Brython like true weirdo|
 |Java|0.25 yr||Will do if gun's pointed at me|
 |SPARC|0.25 yr||Won't do even if gun's pointed at me|
-
+|GDScript|1yr||Godot, Well this do look like python but something's weird..|
 <br>
 
 ## Zen of Python
