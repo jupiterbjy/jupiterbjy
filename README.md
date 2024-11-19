@@ -33,9 +33,9 @@ A Severe Pythonista who loves doing various hobbies:
 - Falling in love to [nonexistent being](https://namu.wiki/w/%EC%86%8C%EB%9D%BC%EC%82%AC%ED%82%A4%20%ED%9E%88%EB%82%98)
 
 And preferences of:
-- Readability *ABSOLUTELY* counts
+- Readability, Documentation, Comments *ABSOL-FCKIN-LUTELY* counts
 - Prefer `black` formatting
-- Prefer `trio` over `threading` and `asyncio`. Personally I think all pythonist should read [this](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/) multiple times.
+- Prefer `trio` over `threading` & `asyncio`. Personally I think all pythonist should read [this](https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/) multiple times.
 - Strong preference to Jetbrains IDE family
 
 <br>
@@ -46,20 +46,21 @@ Some not-so-proud-of table:
 
 | Lang | Personal exp. | Workplace exp. | Note |
 |-|-|-|-|
-|Python|6 yr|1.5 yr unofficial<br>0.5yr official|Loves EAFP, Loves Zen of Python|
-|C++|1.5 yr|0.5 yr|Currently fighting with implicit hell & Rule of 0/3/5. I hate indecisive, implicit, weak typed langauge!|
-|C|0.5 yr||Will do if gun's pointed at me|
-|C#|0.5 yr||Unity/Godot, Will do if gun's pointed at me|
-|Javascript|0.5 yr||Loves to go pure CSS/JS/HTML and suffer or mixes with Brython like true weirdo|
-|Java|0.25 yr||Will do if gun's pointed at me|
-|SPARC|0.25 yr||Won't do even if gun's pointed at me|
-|GDScript|1yr||Godot, Well this do look like python but something's weird..|
+|Python|6 yr|1.5 yr unofficial<br>1yr official|Loves EAFP, Loves Zen of Python|
+|C++|1.5 yr|0.5 yr official|Currently fighting with implicit hell & Rule of 0/3/5. I hate indecisive, implicit, weak typed langauge!|
+|C|0.5 yr|Nope|Will do if gun's pointed at me|
+|C#|0.5 yr|Nope|Unity/Godot, Will do if gun's pointed at me|
+|Javascript|0.5 yr|Nope|Loves to go pure CSS/JS/HTML and suffer or mixes with Brython like true weirdo|
+|Java|0.25 yr|Nope|Will do if gun's pointed at me|
+|SPARC|0.25 yr|Nope|Won't do even if gun's pointed at me|
+|GDScript|2yr|1yr official|Godot, Well this do look like python but something's weird..|
 <br>
 
-Etc:
-
+ETC:
 - can do basic Gitlab CE setup & management
 - can do basic Gitlab Pipeline setup (despite I don't use it myself)
+
+<br>
 
 ## Zen of Python
 
