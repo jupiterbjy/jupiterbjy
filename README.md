@@ -5,9 +5,12 @@ jupiterbjy@gmail.com
 
 - [github gist](https://gist.github.com/jupiterbjy)
 - [StackOverFlow](https://stackoverflow.com/users/10909029/jupiterbjy)
+
 - [pixiv](https://www.pixiv.net/users/13823148)
+- [Thingyverse](https://www.thingiverse.com/jupiterbjy)
 
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
+- [Reddit](https://www.reddit.com/user/jupiterbjy/)
 - [youtube](https://www.youtube.com/@jupiterbjy)
 - [Discord](https://discordapp.com/users/426701488283189249)
 
