@@ -56,6 +56,11 @@ Some not-so-proud-of table:
 |GDScript|1yr||Godot, Well this do look like python but something's weird..|
 <br>
 
+Etc:
+
+- can do basic Gitlab CE setup & management
+- can do basic Gitlab Pipeline setup (despite I don't use it myself)
+
 ## Zen of Python
 
 ```
