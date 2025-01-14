@@ -21,7 +21,7 @@ jupiterbjy@gmail.com
 
 ## About this weirdo
 
-Hobby Pythonist who mainly uses _Python 3.12_ and up, who .
+Hobby Pythonist who mainly uses _Python 3.12_ and up.
 
 Also loves hobby drawing & modeling, and using 3D printers!
 
