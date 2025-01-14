@@ -3,15 +3,18 @@
 
 jupiterbjy@gmail.com
 
+#### Code related
 - [github gist](https://gist.github.com/jupiterbjy)
 - [StackOverFlow](https://stackoverflow.com/users/10909029/jupiterbjy)
 
+#### Creations
 - [pixiv](https://www.pixiv.net/users/13823148)
-- [Thingyverse](https://www.thingiverse.com/jupiterbjy)
+- [Thingiverse](https://www.thingiverse.com/jupiterbjy)
+- [youtube](https://www.youtube.com/@jupiterbjy)
 
+#### Etc
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
 - [Reddit](https://www.reddit.com/user/jupiterbjy/)
-- [youtube](https://www.youtube.com/@jupiterbjy)
 - [Discord](https://discordapp.com/users/426701488283189249)
 
 <br>
