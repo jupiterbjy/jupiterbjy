@@ -1,16 +1,18 @@
 
+[![koishi_2022_outlined](https://github.com/user-attachments/assets/59d45315-e182-4f7f-9690-9c4adc4bdbd4)](https://www.pixiv.net/artworks/97774678)
+
 ## Contacts/Links
 
 jupiterbjy@gmail.com
 
 #### Code related
 - [github gist](https://gist.github.com/jupiterbjy)
-- [StackOverFlow](https://stackoverflow.com/users/10909029/jupiterbjy)
+- [stackoverflow](https://stackoverflow.com/users/10909029/jupiterbjy)
 
-#### Creations
+#### Creation-ish
 - [pixiv](https://www.pixiv.net/users/13823148)
 - [Thingiverse](https://www.thingiverse.com/jupiterbjy)
-- [youtube](https://www.youtube.com/@jupiterbjy)
+- [youtube](https://www.youtube.com/@jupiterbjy) (mostly using like public NAS)
 
 #### Etc
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
@@ -101,6 +103,9 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 <!--
+gonna leave this below forever to give pain on whoever read this in raw, heh!
+also a good memory to self of my first time with github... sort of.
+
 **jupiterbjy/jupiterbjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
