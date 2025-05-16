@@ -1,5 +1,7 @@
 
 [![koishi_2022_outlined](https://github.com/user-attachments/assets/59d45315-e182-4f7f-9690-9c4adc4bdbd4)](https://www.pixiv.net/artworks/97774678)
+[![image](https://github.com/user-attachments/assets/3647012d-4b1b-4fca-8f88-a1d3c9ea16a5)](https://www.pixiv.net/artworks/130433965)
+
 
 ## Contacts/Links
 
