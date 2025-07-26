@@ -1,11 +1,7 @@
 
 [![koishi_2022_outlined](https://github.com/user-attachments/assets/59d45315-e182-4f7f-9690-9c4adc4bdbd4)](https://www.pixiv.net/artworks/97774678)
-[![image](https://github.com/user-attachments/assets/3647012d-4b1b-4fca-8f88-a1d3c9ea16a5)](https://www.pixiv.net/artworks/130433965)
+[![image](https://github.com/user-attachments/assets/47afdd20-1bba-4efc-8fd5-8ff97c271822)](https://www.pixiv.net/artworks/130433965)
 [![image](https://github.com/user-attachments/assets/4085f5f2-0e9b-4e13-889d-e13220133d15)](https://www.pixiv.net/artworks/133016593)
-<!--
-<img width="497" height="500" alt="image" src="https://github.com/user-attachments/assets/4085f5f2-0e9b-4e13-889d-e13220133d15" />
--->
-
 
 ## Contacts/Links
 
