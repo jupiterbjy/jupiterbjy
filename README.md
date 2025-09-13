@@ -111,11 +111,11 @@ Scribblings used(or intended to be) as header for this readme previously
 <img height="200" alt="_small_생축" src="https://github.com/user-attachments/assets/fa093429-21e2-4f4d-ae31-8df08e910900" />
 <img height="200" alt="dead_alpha" src="https://github.com/user-attachments/assets/3aa5f50b-e977-417e-ac46-8dc198221758" />
 
-[![koishi_2022_outlined](https://github.com/user-attachments/assets/59d45315-e182-4f7f-9690-9c4adc4bdbd4)](https://www.pixiv.net/artworks/97774678)
-[![Murasame SD](https://github.com/user-attachments/assets/47afdd20-1bba-4efc-8fd5-8ff97c271822)](https://www.pixiv.net/artworks/130433965)
-[![Meguru SD](https://github.com/user-attachments/assets/ce207904-f531-4310-be86-4c4ca436c518)](https://www.pixiv.net/artworks/135037816)
-[![Kuro SD](https://github.com/user-attachments/assets/4085f5f2-0e9b-4e13-889d-e13220133d15)](https://www.pixiv.net/artworks/133016593)
-[![Shinku SD](https://github.com/user-attachments/assets/7ee9df6f-d95a-438e-933d-844bc95b2ad6)](https://www.pixiv.net/artworks/135037816)
+[<img height="200" alt="koishi_2022_outlined" src="https://github.com/user-attachments/assets/59d45315-e182-4f7f-9690-9c4adc4bdbd4" />](https://www.pixiv.net/artworks/97774678)
+[<img height="200" alt="Murasame SD" src="https://github.com/user-attachments/assets/47afdd20-1bba-4efc-8fd5-8ff97c271822" />](https://www.pixiv.net/artworks/130433965)
+[<img height="200" alt="Meguru SD" src="https://github.com/user-attachments/assets/ce207904-f531-4310-be86-4c4ca436c518" />](https://www.pixiv.net/artworks/135037816)
+[<img height="200" alt="Kuro SD" src="https://github.com/user-attachments/assets/4085f5f2-0e9b-4e13-889d-e13220133d15" />](https://www.pixiv.net/artworks/133016593)
+[<img height="200" alt="Shinku SD" src="https://github.com/user-attachments/assets/7ee9df6f-d95a-438e-933d-844bc95b2ad6" />](https://www.pixiv.net/artworks/135037816)
 
 <!--
 ETC:
