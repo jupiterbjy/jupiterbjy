@@ -113,7 +113,7 @@ Scribblings used(or intended to be) as header for this readme previously
 
 [<img height="150" alt="koishi_2022_outlined" src="https://github.com/user-attachments/assets/59d45315-e182-4f7f-9690-9c4adc4bdbd4" />](https://www.pixiv.net/artworks/97774678)
 [<img height="150" alt="Murasame SD" src="https://github.com/user-attachments/assets/47afdd20-1bba-4efc-8fd5-8ff97c271822" />](https://www.pixiv.net/artworks/130433965)
-[<img height="150" alt="Meguru SD" src="https://github.com/user-attachments/assets/ce207904-f531-4310-be86-4c4ca436c518" />](https://www.pixiv.net/artworks/135037816)
+[<img height="150" alt="Meguru SD" src="https://github.com/user-attachments/assets/ce207904-f531-4310-be86-4c4ca436c518" />](https://www.pixiv.net/artworks/130603046)
 [<img height="150" alt="Kuro SD" src="https://github.com/user-attachments/assets/4085f5f2-0e9b-4e13-889d-e13220133d15" />](https://www.pixiv.net/artworks/133016593)
 
 <!--
