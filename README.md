@@ -49,7 +49,7 @@ And preferences of:
 
 ## Some lang preference
 
-<img width="630" alt="자캐_라인2_trans" src="https://github.com/user-attachments/assets/30b78e6c-837a-4600-be42-ea4b89f512b9" />
+<img width="630" alt="자캐_라인2_trans" src="https://github.com/user-attachments/assets/def8e15b-593c-4072-aa6e-b1c6288c9b85" />
 
 | Lang | Note |
 |-|-|
