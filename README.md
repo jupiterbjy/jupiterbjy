@@ -26,7 +26,8 @@ jupiterbjy@gmail.com
 
 ## About this weirdo
 
-<img height="200" alt="maneki_bw_neko" src="https://github.com/user-attachments/assets/6bba1367-eefa-4f99-accb-55a4ad4bc6f1" />
+<img height="150" alt="maneki_bw_neko" src="https://github.com/user-attachments/assets/6bba1367-eefa-4f99-accb-55a4ad4bc6f1" />
+<img height="150" alt="alpha" src="https://github.com/user-attachments/assets/e321133e-0a9d-4b7f-b38a-085b8145dd43" />
 
 Manekineko wishing everyone fortune, hobby Pythonist living by _"Zen of Python"_.
 
@@ -107,7 +108,6 @@ Namespaces are one honking great idea -- let's do more of those!
 
 Scribblings used(or intended to be) as header for this readme previously
 
-<img height="150" alt="alpha" src="https://github.com/user-attachments/assets/e321133e-0a9d-4b7f-b38a-085b8145dd43" />
 <img height="150" alt="_small_생축" src="https://github.com/user-attachments/assets/fa093429-21e2-4f4d-ae31-8df08e910900" />
 <img height="150" alt="dead_alpha" src="https://github.com/user-attachments/assets/3aa5f50b-e977-417e-ac46-8dc198221758" />
 
