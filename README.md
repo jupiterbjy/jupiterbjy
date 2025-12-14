@@ -13,9 +13,9 @@ jupiterbjy@gmail.com
 - [stackoverflow](https://stackoverflow.com/users/10909029/jupiterbjy)
 
 #### Creation-ish
-- [pixiv](https://www.pixiv.net/users/13823148)
-- [Thingiverse](https://www.thingiverse.com/jupiterbjy)
-- [youtube](https://www.youtube.com/@jupiterbjy) (mostly using as public diary of random toy project)
+- 2D Scribblings - [pixiv](https://www.pixiv.net/users/13823148)
+- 3D Printing - [Thingiverse](https://www.thingiverse.com/jupiterbjy)
+- Random toy projects & 2D Timelapses - [youtube](https://www.youtube.com/@jupiterbjy)
 
 #### ETC
 - [Steam](https://steamcommunity.com/id/jupiterbjy)
