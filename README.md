@@ -26,6 +26,8 @@ jupiterbjy@gmail.com
 
 ## About this weirdo
 
+<img width="300" height="593" alt="streamnotifier_alt" src="https://github.com/user-attachments/assets/350a9d10-29b4-470b-a0d2-84953ae52c57" />
+
 [<img height="150" alt="maneki_bw_neko" src="https://github.com/user-attachments/assets/6bba1367-eefa-4f99-accb-55a4ad4bc6f1" />](https://www.pixiv.net/artworks/110677887)
 [<img height="150" alt="alpha" src="https://github.com/user-attachments/assets/e321133e-0a9d-4b7f-b38a-085b8145dd43" />](https://www.pixiv.net/artworks/71719463)
 
